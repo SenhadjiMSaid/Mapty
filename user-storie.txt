@@ -1,0 +1,34 @@
+USER STORIES: 
+
+1.  As a user, I want to log my running workouts with location, distance, time, pace and step/minute, so that I can keep a log of all my running.
+
+2. As a user, I want to log my cycling workouts with location, distance, time, speed and elevation gain, so that I can keep a log of all my cycling.
+
+3. As a user, I want to see all my workouts at a glance, so I can easily track my progress over time
+
+4. As a user, I want to also see my workouts on a map, so I can easily check where I work out the most
+
+5. As a user, I want to see all my workouts when I leave the app and come back later, so that I can keep using there app over time
+
+FEATURES: 
+
+1.
+👉 Map where user click to add new workout.
+👉 Geolocation to display map at current location.
+👉 From to input distance, time, pace and step/minute.
+
+2.
+👉 From to input distance, time, speed and elevation gain.
+
+3.
+👉 Display  all workouts in list.
+
+4. 
+👉 Display all workouts in the map
+
+5.
+👉 Store workout data in the browser using local storage API
+👉 On page load, read the saved data from local storage and display
+
+More.
+👉 Move map to workout location on click
